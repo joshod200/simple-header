@@ -10,4 +10,4 @@ A simple website modern header
 * CSS 3
 
 ## Features
-Background color transition
+* Background color transition
